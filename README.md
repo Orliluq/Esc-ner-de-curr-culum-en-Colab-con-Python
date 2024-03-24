@@ -1,0 +1,1 @@
+# Esc-ner-de-curr-culum-en-Colab-con-Python
